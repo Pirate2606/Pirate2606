@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @Pirate2606 (Aditya Naitan)
-- 👀 I’m interested in Web development and app development.
-- 🌱 I’m currently learning flutter and docker.
+## Hi 👋, my name is Aditya
 
-<!---
-Pirate2606/Pirate2606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##### I am a SDE-1 intern at HashedIn by Deloitte
+
+- 🌱 I’m currently learning **OpenCV**
+- 💬 Ask me about **Python, Flask, Docker, AWS**
+- 📫 How to reach me: adityanaitan@gmail.com
+- 😄 Pronouns: He/His
+
+##### Online Presence
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Pirate2606)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://adityanaitan.co)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/aditya_naitan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/11203277)  
+---
+<div>
+  <a href="https://github.com/Pirate2606">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pirate2606&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pirate2606&layout=compact&langs_count=6"/>
+</div>
