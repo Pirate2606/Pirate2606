@@ -1,6 +1,6 @@
 ## Hi 👋, my name is Aditya
 
-##### I am a Software Engineer at Samsung R&D
+### I am a Software Engineer at Samsung R&D
 
 - 🌱 I’m currently learning **Machine Learning**
 - 💬 Ask me about **Python, Flask, Docker, AWS, Kubernetes, Data Analysis**
