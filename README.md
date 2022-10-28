@@ -1,9 +1,9 @@
 ## Hi 👋, my name is Aditya
 
-##### I am a SDE-1 intern at HashedIn by Deloitte
+##### I am a Software Engineer at Samsung R&D
 
-- 🌱 I’m currently learning **OpenCV**
-- 💬 Ask me about **Python, Flask, Docker, AWS**
+- 🌱 I’m currently learning **Machine Learning**
+- 💬 Ask me about **Python, Flask, Docker, AWS, Kubernetes, Data Analysis**
 - 📫 How to reach me: adityanaitan@gmail.com
 - 😄 Pronouns: He/His
 
