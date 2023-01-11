@@ -6,8 +6,8 @@
 - 💬 Ask me about **Python, Flask, Docker, AWS, Kubernetes, Data Analysis**
 - 📫 How to reach me: adityanaitan@gmail.com
 - 😄 Pronouns: He/His
-- 
-![](https://komarev.com/ghpvc/?username=Pirate2606)
+
+![](https://komarev.com/ghpvc/?username=Pirate2606) Since Jan, 2023
 
 ##### Online Presence
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Pirate2606)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://adityanaitan.co)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/aditya_naitan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/11203277)  
