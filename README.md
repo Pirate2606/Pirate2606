@@ -1,11 +1,10 @@
 ## Hi 👋, my name is Aditya
 
-### I am a Software Engineer at Samsung R&D
+### I am a Senior Software Engineer at Samsung Research Institute, Bangalore
 
 - 🌱 I’m currently learning **Machine Learning**
-- 💬 Ask me about **Python, Flask, Docker, AWS, Kubernetes, Data Analysis**
+- 💬 Ask me about **Unity, C#, Python, C++, AR/VR, Flask, Docker, AWS**
 - 📫 How to reach me: adityanaitan@gmail.com
-- 😄 Pronouns: He/His
 
 ![](https://komarev.com/ghpvc/?username=Pirate2606) Since Jan, 2023
 
